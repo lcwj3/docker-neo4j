@@ -1,6 +1,7 @@
 *NOTE:* Supported images are available in the [official image library](https://hub.docker.com/_/neo4j/) on Docker Hub.
 Please use those for production use.
-# Quick setup of Neo4j Docker: run the neo4j-setup as a shell script, for neo4j@3.5.2
+# Quick setup of Neo4j Docker
+run the neo4j-setup as a shell script, for neo4j@3.5.2
 # Using the Neo4j Docker image
 
 ## Neo4j 2.3
